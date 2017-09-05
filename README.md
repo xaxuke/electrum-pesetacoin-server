@@ -1,4 +1,4 @@
-Electrum-DOGE-server for the Electrum-DOGE client
+Electrum-PESETACOIN-server for the Electrum-Pesetacoin client
 ===============================================
 
   * Author: Thomas Voegtlin (ThomasV on the bitcointalk forum)
