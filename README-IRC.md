@@ -1,4 +1,4 @@
-IRC is used by Electrum-DOGE server to find 'peers' - other Electrum-DOGE servers. The
+IRC is used by Electrum-PESETACOIN server to find 'peers' - other Electrum-PESETACOINE servers. The
 current list can be seen by running:
 
     electrum-peseta-server peers
@@ -21,7 +21,7 @@ used both when binding the listener for incoming client connections and as part
 of the realname field in IRC (see below).
 
 `report_host` is a an optional fully-qualified domain name (FQDN) of
-your Electrum-DOGE server 
+your Electrum-PESETACOIN server 
 instead of `host`. It is used as part of the name field in IRC for incoming client connections.
 This is useful in a NAT setup where you bind to a private IP locally but have an external IP
 set up at your router and external DNS.
