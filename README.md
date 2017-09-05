@@ -34,6 +34,6 @@ Installation
 License
 -------
 
-Electrum-DOGE-server is made available under the terms of the [GNU Affero General
+Electrum-PESETACOIN-server is made available under the terms of the [GNU Affero General
 Public License](http://www.gnu.org/licenses/agpl.html), version 3. See the 
 included `LICENSE` for more details.
